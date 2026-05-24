@@ -1,0 +1,8 @@
+{
+  "name": "Remix: FitQuest",
+  "description": "Gamified fitness tracker with XP, ranks, and custom influencer challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
